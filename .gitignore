@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+env/
+
+# Firebase keys (important!)
+serviceAccountKey.json
+
+# Auto generated pickle file
+EncodeFile.p
+
+# IDE files
+.vscode/
